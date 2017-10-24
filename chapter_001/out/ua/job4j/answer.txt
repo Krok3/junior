@@ -1,2 +1,0 @@
-javac -d out src\main\ua\job4j\Calculate.java
-java -cp chapter_001\out ua.job4j.Calculate
